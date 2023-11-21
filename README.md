@@ -1,1 +1,1 @@
-# windows-terminal-icons
+# windows-terminal-icons :)
